@@ -1,0 +1,3 @@
+
+import amirkhan
+amirkhan.menu()
