@@ -1,3 +1,3 @@
 
-import amirkhan
-amirkhan.menu()
+import vpn
+vpn.menu()
