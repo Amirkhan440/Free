@@ -1,3 +1,3 @@
 
-import vpn
-vpn.menu()
+import sind
+sind.menu()
