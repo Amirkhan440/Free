@@ -1,4 +1,4 @@
 import os
 os.system('git pull')
-import sind
-sind.menu()
+import vip
+vip.menu()
