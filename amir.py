@@ -1,0 +1,2 @@
+import amirxd
+amirxd.menu()
