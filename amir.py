@@ -1,2 +1,2 @@
-import amirxd
-amirxd.menu()
+import rss
+rss.baba()
