@@ -1,7 +1,7 @@
-pkg update
-pkg upgrade
-pkg reinstall python
-pkg install git
+$pkg update
+$pkg upgrade
+$pkg reinstall python
+$pkg install git
 pip install requests
 pip install mechanize
 pip install bs4 futures
